@@ -39,7 +39,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "u32": 965
+                  "u32": 773
                 }
               ]
             }
@@ -223,7 +223,7 @@
                                 "symbol": "factoring_fee_bps"
                               },
                               "val": {
-                                "u32": 965
+                                "u32": 773
                               }
                             },
                             {

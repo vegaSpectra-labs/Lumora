@@ -39,7 +39,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "u32": 3223
+                  "u32": 219
                 }
               ]
             }
@@ -239,7 +239,7 @@
                                 "symbol": "yield_bps"
                               },
                               "val": {
-                                "u32": 3223
+                                "u32": 219
                               }
                             }
                           ]
